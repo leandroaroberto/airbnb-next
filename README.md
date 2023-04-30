@@ -1,6 +1,6 @@
 # Airbnb Next
 
-This is a Airbnb clone using React with nextjs 13, tailwindcss and prisma. The aim of this repo is only for learning purposes.
+This is an Airbnb clone project using React with nextjs 13, tailwindcss and prisma. The aim of this repo is only for learning purposes.
 
 Based on Youtube Tutorial: https://www.youtube.com/watch?v=c_-b_isI4vg&t=1458s
 
