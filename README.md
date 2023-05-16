@@ -28,3 +28,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Screenshots
+
+![2023-05-15_21-19](https://github.com/leandroqa/airbnb-next/assets/24318272/1c39e29e-4b57-4e9f-8d5a-62488fa408f2)
